@@ -1,0 +1,9 @@
+# https://www.vaultproject.io/docs/auth/jwt#oidc-login-cli
+export LS_VAULT_OIDC_ROLE=
+
+# https://www.vaultproject.io/docs/secrets/ssh/signed-ssh-certificates#client-ssh-authentication
+export LS_VAULT_SIGN_ENDPOINT=
+
+# https://www.vaultproject.io/docs/commands#vault_skip_verify
+export VAULT_ADDRESS=
+export VAULT_SKIP_VERIFY=
